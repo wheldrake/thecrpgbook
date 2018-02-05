@@ -6,7 +6,7 @@ Fiyat 100 kişi çıkarsa 30tl, 40 kişi 35tl, 15 kişi 50tl.
 
 # alanlar
 
-## toplam = 5
+## toplam = 6
 
 | Kim bu            | Kac tane aliyo |
 | ----------------- | -------------- |
@@ -14,3 +14,4 @@ Fiyat 100 kişi çıkarsa 30tl, 40 kişi 35tl, 15 kişi 50tl.
 | Bezerye           | 1              |
 | GERGE             | 1              |
 | Frostbite         | 1              |
+| Spyro             | 1              |
