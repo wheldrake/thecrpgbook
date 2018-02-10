@@ -4,7 +4,7 @@ A4 boyunda 115 gram kuşe kağıt. Daha ağır olursa devasa olur diye düşünd
 
 # alanlar
 
-## toplam = 29-32
+## toplam = 32-35
 
 | Kim bu            | Kac tane aliyo |
 | ----------------- | -------------- |
@@ -17,7 +17,7 @@ A4 boyunda 115 gram kuşe kağıt. Daha ağır olursa devasa olur diye düşünd
 | dreagloth         | 1              |
 | Darksun           | 1              |
 | Seru              | 1              |
-| Black-ice         | 1              |
+| Black-ice         | 2              |
 | DRaGoN_SLaYeR     | 2              |
 | senko             | 1              |
 | Cokomantis        | 2              |
@@ -35,3 +35,5 @@ A4 boyunda 115 gram kuşe kağıt. Daha ağır olursa devasa olur diye düşünd
 | aktiftablet       | 1              |
 | Feamer            | 1              |
 | Holy              | 1              |
+| Borastus          | 1              |
+| Grego             | 1              |
