@@ -4,7 +4,7 @@ A4 boyunda 115 gram kuşe kağıt. Daha ağır olursa devasa olur diye düşünd
 
 # alanlar
 
-## toplam = 38-42
+## toplam = 39-43
 
 | Kim bu            | Kac tane aliyo |
 | ----------------- | -------------- |
@@ -27,7 +27,7 @@ A4 boyunda 115 gram kuşe kağıt. Daha ağır olursa devasa olur diye düşünd
 | Gallant           | 1              |
 | Sam               | ?              |
 | Alfheim           | 1              |
-| KehKeh            | 1-2           |
+| KehKeh            | 1-2            |
 | Masticore         | 1              |
 | Apis              | 1              |
 | Promenader        | 1              |
@@ -42,3 +42,4 @@ A4 boyunda 115 gram kuşe kağıt. Daha ağır olursa devasa olur diye düşünd
 | DavidMills        | 1              |
 | Xenus             | 1              |
 | Baggio            | 2              |
+|toggie|1|
