@@ -42,4 +42,4 @@ A4 boyunda 115 gram kuşe kağıt. Daha ağır olursa devasa olur diye düşünd
 | DavidMills        | 1              |
 | Xenus             | 1              |
 | Baggio            | 2              |
-|toggie|1|
+| toggie            | 1              |
